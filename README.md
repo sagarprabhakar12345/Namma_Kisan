@@ -186,5 +186,5 @@ App will run on http://localhost:3000
 💼 Aspiring Full-Stack Developer    
 🌐 Passionate about building meaningful, farmer-centric web solutions<br> 
 📧 Email: sagarprabhakar29@gmail.com<br>
-🌐 Portfolio: https://portfolio-nine-lyart-56.vercel.app/
+
 
