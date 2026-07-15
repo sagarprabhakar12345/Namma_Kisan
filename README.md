@@ -12,10 +12,10 @@ The full project source code is **private** to protect intellectual property and
 Recruiters and collaborators can:
 - 🌐 **Visit the live deployed version** (Frontend)  
 - 🎥 **Watch the demo videos below** for complete functionality  
-- 📧 **Email me** at **ronikbajakke172913@gmail.com** if you’d like to view the code privately for evaluation purposes.  
+- 📧 **Email me** at **sagarprabhakar29@gmail.com** if you’d like to view the code privately for evaluation purposes.  
 
 🧑‍💼 **Demo Admin Login Credentials (for live site)**  
-- **Email:** `ronikbajakke@gmail.com`  
+- **Email:** `sagarprabhakar29@gmail.com`  
 - **Password:** `SadalgaNammakisan@591239`  
 
 
@@ -156,29 +156,25 @@ NammaKisan/
 
 
 ## 💻 How to Run Locally
-1. Clone repo
-```bash
-git clone https://github.com/Ronik-Bajakke/NammaKisan.git
-```
-2. Go to backend
+1. Go to backend
 ```bash
 cd backend
 npm install
 ```
-3. Start backend server
+2. Start backend server
 ```bash
 npm run dev
 ```
-4. Server will run on http://localhost:5000
+3. Server will run on http://localhost:5000
 ```bash
 Open a new terminal and run the frontend:
 ```
-5. Go to frontend
+4. Go to frontend
 ```bash
 cd ../frontend
 npm install
 ```
-6. Start frontend
+5. Start frontend
 ```bash
 npm start
 App will run on http://localhost:3000
@@ -186,9 +182,9 @@ App will run on http://localhost:3000
 
 ## 👨‍💻 Author  
 
-**Ronik Bajakke**  
-💼 Aspiring MERN Stack Developer    
+**sagar prabhakar**  
+💼 Aspiring Full-Stack Developer    
 🌐 Passionate about building meaningful, farmer-centric web solutions<br> 
-📧 Email: ronikbajakke172913@gmail.com<br>
+📧 Email: sagarprabhakar29@gmail.com<br>
 🌐 Portfolio: https://portfolio-nine-lyart-56.vercel.app/
 
